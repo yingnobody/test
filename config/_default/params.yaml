@@ -172,7 +172,7 @@ creativeCommons:
 
 # See https://giscus.app
 giscus:
-  repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
+  repo: "yingnobody/test" # required.
   repoId: "R_kgDOHJi95g" # required.
   category: "General" # required.
   categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
