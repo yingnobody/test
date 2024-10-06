@@ -1,4 +1,4 @@
-module github.com/razonyyingnoang/hugo-theme-bootstrap-skeleton
+module github.com/yingnobody/test
 
 go 1.18
 
