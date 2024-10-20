@@ -1,6 +1,6 @@
 baseURL: "https://yingnobody.github.io/test/""
 title: can i make this work?
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+copyright: 'Copyright © 2016-{year} . All Rights Reserved.'
 defaultContentLanguage: en
 
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
